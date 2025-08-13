@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  @apply font-sans;
+}
+
+html {
+  scroll-behavior: smooth;
+  font-size: 18px;
+  @apply text-[16px] md:text-[18px];
+}
+
+.bg-gradient {
+  @apply bg-gradient-to-r from-purple to-blue;
+}
+
+.bg-gradient-cta {
+  @apply bg-gradient-to-r from-orange to-pink;
+}
+
+.font-gradient-cta {
+  @apply bg-gradient-to-r from-orange to-pink;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+p {
+  @apply text-left leading-7;
+}
+
+.h1 {
+  @apply text-4xl font-black uppercase tracking-tighter;
+}
+
+.h2 {
+  @apply text-3xl font-black uppercase tracking-tight;
+}
+
+.h3 {
+  @apply text-2xl font-black uppercase;
+}
+
+button {
+  @apply bg-gradient-to-r from-orange to-pink text-white font-bold py-2 px-4 rounded-xl;
+}
