@@ -10,7 +10,7 @@ _A prototype of a small learning platform about design thinking, built for uni. 
 &nbsp;
 
 ## Why does this exist?
-1. University assignment; kept for the memories.
+A university assignment.
 
 ## How to run it
 - `npm install` – project setup

@@ -1,9 +1,7 @@
 {
   "title": "Design Thinking Prototype",
   "tagline": "A prototype of a small learning platform about design thinking, built for uni. 🎓",
-  "why": [
-    "University assignment; kept for the memories."
-  ],
+  "why": "A university assignment.",
   "sections": [
     {
       "title": "How to run it",
