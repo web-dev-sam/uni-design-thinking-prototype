@@ -1,0 +1,19 @@
+{
+  "title": "Design Thinking Prototype",
+  "tagline": "A prototype of a small learning platform about design thinking, built for uni. 🎓",
+  "why": [
+    "University assignment; kept for the memories."
+  ],
+  "sections": [
+    {
+      "title": "How to run it",
+      "bullets": [
+        "`npm install` – project setup",
+        "`npm run serve` – compiles and hot-reloads for development",
+        "`npm run build` – compiles and minifies for production",
+        "`npm run lint` – lints and fixes files",
+        "Customize configuration: see [Configuration Reference](https://cli.vuejs.org/config/)."
+      ]
+    }
+  ]
+}
